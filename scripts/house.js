@@ -13,7 +13,8 @@ document.addEventListener("click",(event) => {
 
 export const HouseOfHummus = () => {
     return `
-        <h1>Laura Kathryn's House of Hummus</h1>
+   
+    <h1><img src="https://i.imgur.com/e55sPpr.png" alt="logo" />Laura Kathryn's House of Hummus</h1>
 
         <article class="choices">
             <section class="choices__dishes options">
